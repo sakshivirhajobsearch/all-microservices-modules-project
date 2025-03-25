@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.example</groupId>
+	<artifactId>all-microservices-modules-project</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>service-registry-eureka-server</module>
+		<module>api-gateway</module>
+		<module>service-a</module>
+		<module>service-b</module>
+		<module>config-server</module>
+		<module>discovery-server-eureka</module>
+		<!--<module>monitoring</module>
+		<module>security</module>
+		<module>database</module>
+		<module>resilience</module>
+		<module>logging</module>-->
+	</modules>
+</project>
