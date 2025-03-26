@@ -14,5 +14,6 @@
 		<module>config-server</module>
 		<module>discovery-server-eureka</module>
 		<module>monitoring</module>
+		<module>security</module>
 	</modules>
 </project>
