@@ -13,10 +13,6 @@
 		<module>service-b</module>
 		<module>config-server</module>
 		<module>discovery-server-eureka</module>
-		<!--<module>monitoring</module>
-		<module>security</module>
-		<module>database</module>
-		<module>resilience</module>
-		<module>logging</module>-->
+		<module>monitoring</module>
 	</modules>
 </project>
