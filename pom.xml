@@ -16,5 +16,6 @@
 		<module>monitoring</module>
 		<module>security</module>
 		<module>database</module>
+		<module>resilience</module>
 	</modules>
 </project>
