@@ -12,12 +12,3 @@ public class MonitoringApplication {
 		SpringApplication.run(MonitoringApplication.class, args);
 	}
 }
-
-@RestController
-@RequestMapping("/")
-class HomeController {
-	@GetMapping
-	public String home() {
-		return "Welcome to the Monitoring Service!";
-	}
-}

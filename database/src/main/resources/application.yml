@@ -1,5 +1,5 @@
 server:
-  port: 8086 # Change as per your service requirement
+  port: 8087 # Change as per your service requirement
 
 spring:
   datasource:
