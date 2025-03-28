@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>security</name>
-	<description>Microservices Project</description>
+	<description>Microservices Security Module</description>
 
 	<!-- Parent should be declared first -->
 	<parent>

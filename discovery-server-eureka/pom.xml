@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>discovery-server-eureka</name>
-    <description>Microservices Eureka Discovery Server</description>
+    <description>Microservices Discovery Server Eureka Module</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
