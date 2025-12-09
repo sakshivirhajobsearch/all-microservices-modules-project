@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Java (Maven/Gradle), Spring Boot, MySQL, Kafka, Kubernetes / K8s
+- **Detected Technologies:** Batchfile, Java, Shell
 - **GitHub Topics:** None
 
 ---
